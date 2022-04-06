@@ -1,0 +1,16 @@
+  324  nano milkshakes.md
+  325  git status
+  326  git add milkshakes.md
+  327  git restore milkshakes.md
+  328  git status
+  329  git restore --staged milkshakes.md
+  330  git status
+  331  git log
+  332  git checkout master
+  333  git restore milkshakes.md
+  334  git checkout master
+  335  git status
+  336  git branch history
+  337  git checkout history
+  338  git log
+  339  git branch
